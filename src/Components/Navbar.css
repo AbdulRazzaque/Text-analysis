@@ -1,0 +1,10 @@
+
+
+   .circle {
+        width: 30px;
+        height: 30px;
+        background: red;
+        border-radius: 50%;
+        margin-right: 23px;
+        cursor: pointer;
+      }
